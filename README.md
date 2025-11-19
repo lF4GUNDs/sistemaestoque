@@ -99,7 +99,3 @@ git clone https://github.com/SEU_USUARIO/sistemaestoque.git
 - Controle de permissões por tipo de usuário
 - Tela de alerta para produtos abaixo do estoque mínimo
 - Migração para aplicação web (ASP.NET Core) ou API + frontend
-
-## Licença
-
-Defina aqui o tipo de licença (por exemplo: MIT, GPL, uso acadêmico, etc.).
